@@ -42,11 +42,21 @@ Optional:
 
 ## Gene statistics calculation
 
-python gene_stats.py
-					--candidates
-					--gff <GFF_FILE>
-					--prot <PROTEIN_FILE>
-					--out <STATS_OUTPUT_FILE>
+
+```
+Usage:
+  python gene_stats.py --in <FILE> --out <DIR> --exp <FILE>
+
+Mandatory:
+  --candidates  STR   Candidates file
+  --gff         STR   GFF input file
+  --prot        STR   Protein sequence input file
+  --out         STR   Summary output files.
+```
+
+`--out` specifies the output file that contains all summarized data in a table.
+
+
 
 # References
 
