@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6969411.svg)](https://doi.org/10.5281/zenodo.6969411)
+
 # CaMYBs
 The scripts were applied for the investigation of the R2R3 MYBs in _Cicer arietinum_.
 
